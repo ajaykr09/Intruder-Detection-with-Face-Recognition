@@ -1,2 +1,2 @@
-# Intruder-Detection-with-Face-Recognition
-This is an intruder detection system that uses face recognition to check if the individual is known or unknown. This project is built using python and uses Haar-Cascade classifier as its machine learning model and uses the face_recognition library for recognition the face itself. The UI was built in the android studio platform. 
+# Intruder Detection System
+Our Intruder Detection App leverages advanced face recognition technology to identify unauthorized individuals in real time, enhancing security in sensitive areas such as homes, offices, and restricted spaces. The app is designed to offer a proactive security solution, reducing the reliance on human monitoring and increasing the speed of response to potential threats
